@@ -31,9 +31,10 @@
 - การใข้งาน boostrap เบื้องต้น
 
 ---
-
-## เริ่มด้วย Class Component
+## ไปกันต่อกับหัวข้อหลักต่อไปนี้
+### Class Component
 ## Functional Component
+## Work with Form
 ## useState, setState
 ## useEffect
 ## useRef, forwardRef
