@@ -1,8 +1,9 @@
 
 # React For Beginner | ลองเรียนรู้ React ในแบบฉบับ F2xCode สำหรับผู้ที่ต้องการเริ่มต้น
-
+>
 > **_NOTE:_** 
 > ทำไมไมเรียน NextJs เลยละ? NextJs เป็น Framework ที่สร้างโดยมี React เป็น Engine พื้นฐานครับ หากใครเข้าใจ React ก็ไปต่อ NextJs ได้แบบเข้าใจที่มาที่ไป หรือใครจะไปเรียนรู้ NextJs เลยก็ได้ครับ ตามความสะดวกของแต่ละคนครับ 
+>
 
 ## ขั้นตอนโดยรวม
 - สิ่งที่ต้องเตรียมบน computer ก่อนเริ่มเรียน 
@@ -27,6 +28,16 @@
 
 ## ใช้ CSS โดย Boostrap 
 - ติดตั้ง css แบบง่ายด้วย CDN
+
+---
+
+## เริ่มด้วย Class Component
+## Functional Component
+## useState, setState
+## useEffect
+
+---
+
 
 
 # Getting Started with Create React App
