@@ -1,17 +1,23 @@
 
 # React For Beginner | ลองเรียนรู้ React ในแบบฉบับ F2xCode สำหรับผู้ที่ต้องการเริ่มต้น
-* ทำไมไมเรียน NextJs เลยละ? NextJs เป็น Framework ที่สร้างโดยมี React เป็น Engine พื้นฐานครับ หากใครเข้าใจ React ก็ไปต่อ NextJs ได้แบบเข้าใจที่มาที่ไป หรือใครจะไปเรียนรู้ NextJs เลยก็ได้ครับ ตามความสะดวกของแต่ละคนครับ 
+---
+**_NOTE:_** 
+ทำไมไมเรียน NextJs เลยละ? NextJs เป็น Framework ที่สร้างโดยมี React เป็น Engine พื้นฐานครับ หากใครเข้าใจ React ก็ไปต่อ NextJs ได้แบบเข้าใจที่มาที่ไป หรือใครจะไปเรียนรู้ NextJs เลยก็ได้ครับ ตามความสะดวกของแต่ละคนครับ 
+---
 
 ขั้นตอนโดยรวม
 - สิ่งที่ต้องเตรียมบน computer ก่อนเริ่มเรียน 
 - ลง sofware ที่เกี่ยวข้องและต้องใช้ Nodejs, Git-SCM, Visual Studio Code และ เครื่องมือที่ช่วยในการเขียนโค้ด 
-- 
 
 เริ่มกันเลย
 1. สร้าง github repository 
 2. clone github 
 3. สร้าง React App ด้วยคำ่สั่ง ``` npx Create-React-App . ```
 4. มาดู Folder กันว่ามีอะไรบ้าง เอาอะไรไว้บ้าง 
+
+
+
+
 
 
 # Getting Started with Create React App
