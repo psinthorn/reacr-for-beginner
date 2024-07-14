@@ -33,11 +33,11 @@
 ---
 ## ไปกันต่อกับหัวข้อหลักต่อไปนี้
 ### Class Component
-## Functional Component
-## Work with Form
-## useState, setState
-## useEffect
-## useRef, forwardRef
+### Functional Component
+### Work with Form
+### useState, setState
+### useEffect
+### useRef, forwardRef
 
 ---
 
