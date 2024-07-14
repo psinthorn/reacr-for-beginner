@@ -4,19 +4,29 @@
 > **_NOTE:_** 
 > ทำไมไมเรียน NextJs เลยละ? NextJs เป็น Framework ที่สร้างโดยมี React เป็น Engine พื้นฐานครับ หากใครเข้าใจ React ก็ไปต่อ NextJs ได้แบบเข้าใจที่มาที่ไป หรือใครจะไปเรียนรู้ NextJs เลยก็ได้ครับ ตามความสะดวกของแต่ละคนครับ 
 
-ขั้นตอนโดยรวม
+## ขั้นตอนโดยรวม
 - สิ่งที่ต้องเตรียมบน computer ก่อนเริ่มเรียน 
 - ลง sofware ที่เกี่ยวข้องและต้องใช้ Nodejs, Git-SCM, Visual Studio Code และ เครื่องมือที่ช่วยในการเขียนโค้ด 
 
-เริ่มกันเลย
+## เริ่มกันเลย
 1. สร้าง github repository 
 2. clone github 
 3. สร้าง React App ด้วยคำ่สั่ง ``` npx Create-React-App . ```
-4. มาดู Folder กันว่ามีอะไรบ้าง เอาอะไรไว้บ้าง 
+4. มาดู Folder กันว่ามีอะไรบ้าง เอาอะไรไว้บ้าง อะไรที่ยังไม่ใช่งานก็ลบออกจาก Folder
 
+## การจัดการ folder structure
+```
+- public
+-- index.js
+- src
+-- App.js
+-- Index.js
+-- components
+--- components_name.js
+```
 
-
-
+## ใช้ CSS โดย Boostrap 
+- ติดตั้ง css แบบง่ายด้วย CDN
 
 
 # Getting Started with Create React App
